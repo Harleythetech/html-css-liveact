@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Winform 12-12-2022/1.0.0": {
+        "runtime": {
+          "Winform 12-12-2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winform 12-12-2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
