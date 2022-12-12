@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>Calculator</title>
+		<Script type = "text/Javascript">
+			function add(){
+				var fn = 55;
+				var sn = 66;
+			
+				var ans = fn + sn;
+			
+				document.getElementById("fnum").innerHTML = fn;
+				document.getElementById("snum").innerHTML = sn;
+				document.getElementById("answer").innerHTML = ans;
+				document.getElementById("equal").innerHTML = "The Sum Is: ";
+			}
+			function sub(){
+				var fn = 55;
+				var sn = 66;
+			
+				var ans = fn - sn;
+			
+				document.getElementById("fnum").innerHTML = fn;
+				document.getElementById("snum").innerHTML = sn;
+				document.getElementById("answer").innerHTML = ans;
+				document.getElementById("equal").innerHTML = "The Qoutient Is: ";
+			}
+			function multi(){
+				var fn = 55;
+				var sn = 66;
+			
+				var ans = fn * sn;
+			
+				document.getElementById("fnum").innerHTML = fn;
+				document.getElementById("snum").innerHTML = sn;
+				document.getElementById("answer").innerHTML = ans;
+				document.getElementById("equal").innerHTML = "The Product Is: ";
+			}
+			function dev(){
+				var fn = 55;
+				var sn = 66;
+			
+				var ans = fn / sn;
+			
+				document.getElementById("fnum").innerHTML = fn;
+				document.getElementById("snum").innerHTML = sn;
+				document.getElementById("answer").innerHTML = ans;
+				document.getElementById("equal").innerHTML = "The Diff Is: ";
+			}
+			</script>
+		</head>
+	<body>
+		<div>
+		<h1><i>First Number is:</i> <i id= "fnum"></i><h1>
+		<h1><u>Second Number is:</u> <i id= "snum"></i><h1>
+		<h1><span id= "equal"></span><span id= "answer"></span></h1>
+		</div>
+		<div>
+			<input type = "button" value= "+" onClick = add()>
+			<input type = "button" value= "-" onClick = sub()>
+			<input type = "button" value= "*" onClick = multi()>
+			<input type = "button" value= "/" onClick = dev()>
+		</div>
+		

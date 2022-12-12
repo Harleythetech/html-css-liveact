@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+            function add(){
+                var fi = document.getElementById("first").value;
+                var sec = document.getElementById("second").value;
+                var thi = document.getElementById("third").value;
+                var a = parseInt(fi);
+                var b = parseInt(sec);
+                var c = parseInt(thi);
+                var ans = a + b + c;
+				document.getElementById("output").innerHTML = "The answer is: " + ans;
+			}
+			function sub(){
+                var fi = document.getElementById("first").value;
+                var sec = document.getElementById("second").value;
+                var thi = document.getElementById("third").value;
+                var a = parseInt(fi);
+                var b = parseInt(sec);
+                var c = parseInt(thi);
+                var ans = a - b - c;
+				document.getElementById("output").innerHTML = "The answer is: " + ans;
+			}
+			function multi(){
+                var fi = document.getElementById("first").value;
+                var sec = document.getElementById("second").value;
+                var thi = document.getElementById("third").value;
+                var a = parseInt(fi);
+                var b = parseInt(sec);
+                var c = parseInt(thi);
+                var ans = a * b * c;
+				document.getElementById("output").innerHTML = "The answer is: " + ans;
+			}
+			function dev(){
+                var fi = document.getElementById("first").value;
+                var sec = document.getElementById("second").value;
+                var thi = document.getElementById("third").value;
+                var a = parseInt(fi);
+                var b = parseInt(sec);
+                var c = parseInt(thi);
+                var ans = a / b / c;
+				document.getElementById("output").innerHTML = "The answer is: " + ans;
+			}
+    </script>
+</head>
+<body>
+    <h1>Input first number: <input type="text" id="first"></h1>
+    <h1>Input second number: <input type="text" id="second"></h1>
+    <h1>Input third number: <input type="text" id="third"></h1>
+    <h1 id="output"></h1>
+    <div>
+        <input type = "radio" name="op" value= "+" onClick = add()>+</input>
+        <input type = "radio" name="op" value= "-" onClick = sub()>-</input>
+        <input type = "radio" name="op" value= "*" onClick = multi()>*</input>
+        <input type = "radio" name="op" value= "/" onClick = dev()>/</input>
+    </div>
+</body>
+</html>
+		
