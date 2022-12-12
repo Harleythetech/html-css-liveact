@@ -1,0 +1,17 @@
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.csproj.AssemblyReference.cache
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12_5_2022.Form1.resources
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12_5_2022.Form2.resources
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.csproj.GenerateResource.cache
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.AssemblyInfoInputs.cache
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.AssemblyInfo.cs
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.csproj.CoreCompileInputs.cache
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.exe
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.deps.json
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.runtimeconfig.json
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.runtimeconfig.dev.json
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.dll
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\bin\Debug\netcoreapp3.1\win12-5-2022.pdb
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.dll
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.pdb
+D:\Jovellano, Vincent Harley R\windform 5-12-2022\win12-5-2022\obj\Debug\netcoreapp3.1\win12-5-2022.genruntimeconfig.cache
