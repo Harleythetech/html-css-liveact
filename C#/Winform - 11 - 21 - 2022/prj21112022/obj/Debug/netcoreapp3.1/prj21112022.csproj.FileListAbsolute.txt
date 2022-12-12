@@ -1,0 +1,17 @@
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.exe
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.deps.json
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.runtimeconfig.json
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.runtimeconfig.dev.json
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.dll
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\bin\Debug\netcoreapp3.1\prj21112022.pdb
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.csproj.AssemblyReference.cache
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.Form1.resources
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.Form2.resources
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.csproj.GenerateResource.cache
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.AssemblyInfoInputs.cache
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.AssemblyInfo.cs
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.csproj.CoreCompileInputs.cache
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.dll
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.pdb
+D:\Jovellano, Vincent Harley R\Winform - 11 - 21 - 2022\prj21112022\obj\Debug\netcoreapp3.1\prj21112022.genruntimeconfig.cache
