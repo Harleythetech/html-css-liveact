@@ -1,0 +1,16 @@
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.exe
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.deps.json
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.runtimeconfig.json
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.runtimeconfig.dev.json
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.dll
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\bin\Debug\netcoreapp3.1\DTB.pdb
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.csproj.AssemblyReference.cache
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.Form1.resources
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.csproj.GenerateResource.cache
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.AssemblyInfoInputs.cache
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.AssemblyInfo.cs
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.csproj.CoreCompileInputs.cache
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.dll
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.pdb
+D:\Jovellano, Vincent Harley R\DTB 11.28.2022\DTB\obj\Debug\netcoreapp3.1\DTB.genruntimeconfig.cache
